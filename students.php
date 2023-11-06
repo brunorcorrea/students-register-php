@@ -2,6 +2,7 @@
 <html lang="pt-br">
 <head>
     <title>List Students</title>
+    <meta charset="utf-8">
     <link rel="stylesheet" type="text/css" href="css/students.css">
 </head>
 <body>
