@@ -9,7 +9,7 @@
 
 <div id="menu">
     <ul>
-        <li><a href="index.html">Register Students</a></li>
+        <li><a href="index.html">Register_Students</a></li>
     </ul>
 </div>
 
